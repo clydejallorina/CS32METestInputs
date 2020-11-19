@@ -4,7 +4,48 @@ A list of test inputs and their corresponding outputs to help those who are doin
 This repository does ***NOT*** include source code for the solutions for the problems.
 
 ## ME 02
-
+Sample Input 1:
+```
+15
+1 2
+2 3
+3 4
+4 5
+5 6
+6 7
+7 8
+8 9
+9 10
+10 11
+11 12
+12 13
+13 14
+14 15
+0 0
+```
+Sample Output 1:
+```
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+```
+Sample Input 2:
+```
+15
+1 2
+3 4
+6 7
+7 8
+9 10
+10 11
+11 12
+12 13
+13 14
+14 15
+0 0
+```
+Sample Output 2:
+```
+1 5 9 2 6 10 3 7 11 4 8 12 13 14 15
+```
 ## ME 03
 Sample Input 1:
 ```
@@ -116,6 +157,28 @@ Sample Output 2:
 1 2 3 3.394
 1 1 3 4.936
 ```
-
+Sample Input 3:
+```
+5
+1 3 0 74
+9 7 7 88
+7 1 1 15
+5 7 8 11
+7 2 9 96
+5
+7 2 9 2
+7 1 1 24
+9 7 7 78
+5 7 8 4
+1 3 0 37
+```
+Sample Output 3:
+```
+9 7 7 166.000
+7 2 9 98.000
+7 1 1 39.000
+5 7 8 15.000
+1 3 0 111.000
+```
 ## ME 04
 
