@@ -1,5 +1,5 @@
 # CS 32 ME Test Inputs
-A list of test inputs and their corresponding outputs to help those who are doing the machine exercises for the CS 32 course in UP Diliman (2020)
+A list of specially and randomly generated test inputs and their corresponding outputs to help those who are doing the machine exercises for the CS 32 course in UP Diliman (2020)
 
 This repository does ***NOT*** include source code for the solutions for the problems.
 
@@ -181,4 +181,150 @@ Sample Output 3:
 1 3 0 111.000
 ```
 ## ME 04
-
+Sample Input 1:
+```
+1
+9
+ochronosus
+aboveproof
+outyielded
+birkremite
+sojourning
+nuciferous
+inofficial
+decurrency
+polydomous
+```
+Sample Output 1:
+```
+0: 
+1:
+2:
+3: nuciferous
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+11:
+12:
+13:
+14: sojourning birkremite
+15:
+16:
+17:
+18:
+19: aboveproof ochronosus
+20: decurrency inofficial
+21:
+22:
+23:
+24: outyielded
+25:
+26:
+27: polydomous
+28:
+29:
+30:
+31:
+```
+Sample Input 2:
+```
+2
+9
+ochronosus
+aboveproof
+outyielded
+birkremite
+sojourning
+nuciferous
+inofficial
+decurrency
+polydomous
+```
+Sample Output 2:
+```
+0:
+1:
+2:
+3:
+4:
+5:
+6: birkremite
+7:
+8: aboveproof
+9: decurrency
+10:
+11: outyielded
+12:
+13:
+14:
+15:
+16: nuciferous
+17:
+18:
+19:
+20:
+21: sojourning
+22:
+23:
+24: ochronosus
+25: inofficial
+26:
+27:
+28: polydomous
+29:
+30:
+31:
+```
+Sample Input 3:
+```
+3
+9
+ochronosus
+aboveproof
+outyielded
+birkremite
+sojourning
+nuciferous
+inofficial
+decurrency
+polydomous
+```
+Sample Output 3:
+```
+0:
+1:
+2:
+3:
+4:
+5:
+6:
+7: outyielded
+8: nuciferous
+9: sojourning birkremite
+10: 
+11:
+12:
+13:
+14:
+15:
+16: polydomous
+17:
+18:
+19:
+20:
+21:
+22:
+23:
+24: aboveproof ochronosus
+25:
+26:
+27: decurrency inofficial
+28:
+29:
+30:
+31:
+```
